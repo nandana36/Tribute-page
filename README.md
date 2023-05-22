@@ -12,7 +12,7 @@ The Tribute Page is built using HTML and CSS.
 
 ## Getting Started
 
-To view the Tribute Page, simply open the `index.html` file in a web browser.
+To view the Tribute Page,  open https://nandana36.github.io/Tribute-page/
 
 ## Features
 
